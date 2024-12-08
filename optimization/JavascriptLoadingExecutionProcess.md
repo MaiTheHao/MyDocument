@@ -19,9 +19,9 @@
   - ⏳ Tải JavaScript song song với phân tích HTML.
   - 🛑 Khi JavaScript tải xong, HTML tạm dừng để thực thi JS.
   - ⚠️ Các script `async` có thể thực thi **không theo thứ tự**.
-🎯 **Phù hợp cho**:
-  - Scripts độc lập (không phụ thuộc scripts khác).
-  - 📊 Analytics, tracking scripts.
+  - 🎯 **Phù hợp cho**:
+    - Scripts độc lập (không phụ thuộc scripts khác).
+    - 📊 Analytics, tracking scripts.
 
 ---
 
@@ -31,9 +31,9 @@
   - ⏳ Tải JavaScript song song với phân tích HTML.
   - ✅ Chỉ thực thi JavaScript sau khi HTML được phân tích xong.
   - 🔄 Các script `defer` luôn thực thi **theo thứ tự khai báo**.
-🎯 **Phù hợp cho**:
-  - Scripts phụ thuộc vào DOM.
-  - Scripts phụ thuộc lẫn nhau.
+  - 🎯 **Phù hợp cho**:
+    - Scripts phụ thuộc vào DOM.
+    - Scripts phụ thuộc lẫn nhau.
 
 ---
 
