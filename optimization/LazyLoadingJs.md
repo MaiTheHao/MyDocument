@@ -1,5 +1,7 @@
 # 🌟 **LAZY LOADING TRONG JAVASCRIPT** 🌟  
 
+---
+
 ## 📌 1. Lazy Loading là gì?  
 - 🌟 Lazy loading là kỹ thuật tối ưu hóa trang web bằng cách trì hoãn việc tải các tài nguyên cho đến khi thực sự cần thiết.  
 - 📈 Giúp cải thiện hiệu suất trang web và tiết kiệm băng thông.  

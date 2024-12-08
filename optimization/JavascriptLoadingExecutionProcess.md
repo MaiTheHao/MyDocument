@@ -1,5 +1,7 @@
 # Quá Trình Tải JavaScript Trong HTML
 
+---
+
 ## 1. Quá trình tải thông thường (Normal Loading)
 - Khi gặp thẻ `<script>`, trình duyệt sẽ:
   - Tạm dừng việc phân tích (parse) HTML
