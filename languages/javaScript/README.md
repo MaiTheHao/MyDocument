@@ -1,73 +1,179 @@
 # JavaScript Document
 
 📄 Đây là tài liệu về JavaScript được xây dựng bởi 3 đồng tác giả:
-- Mai Thế Hào
-- Trần Duy Phúc
-- Hồ Đức Minh
+
+-   Mai Thế Hào
+-   Trần Duy Phúc
+-   Hồ Đức Minh
+
+---
 
 ## 📚 Mục đích của tài liệu này:
-- 📌 Cô đọng và tập hợp kiến thức liên quan đến JavaScript.
-- 📌 Tập hợp các ví dụ cụ thể thực tế.
-- 📌 Các kiến thức nâng cao hơn.
+
+-   📌 Cô đọng và tập hợp kiến thức liên quan đến JavaScript.
+-   📌 Tập hợp các ví dụ cụ thể thực tế.
+-   📌 Các kiến thức nâng cao hơn.
+
+---
 
 ## 📑 Mục Lục
-- [Cơ bản](#basics)
-- [Ví dụ Code](#examples)
-- [Chủ đề nâng cao](#advanced)
-- [Tài nguyên học tập](#resources)
 
-## Basics
-### 1. Kiến thức nền tảng
-- **Variables And DataTypes**
-    - **Primitive And Reference Types**
-        - **Primitive Types**
-        - **Reference Types**
-    - **Type Coercion**
-        - **Implicit And Explicit Coercion**
-            - **Implicit Coercion**
-            - **Explicit Coercion**
-- **Operators**
-    - **Arithmetic Operators**
-    - **Assignment Operators**
-    - **Comparison Operators**
-    - **Logical Operators**
-    - **Bitwise Operators**
-    - **String Operators**
-    - **Conditional (Ternary) Operator**
-    - **Unary Operators**
-- **controlStructures**
-    - **ifElse**
-    - **switch**
-    - **for**
-        - **normalFor**
-        - **forIn**
-        - **forOf**
-    - **while**
-    - **doWhile**
-    - **breakAndContinue**
-- **Hàm và phạm vi**
-- **Object, Array, String**
+-   [Cơ bản](#basics)
+-   [Ví dụ Code](#examples)
+-   [Chủ đề nâng cao](#advanced)
+-   [Tài nguyên học tập](#resources)
 
-### 2. DOM và Events
-- **DOM manipulation**
-- **Event handling**
-- **Forms và validation**
+---
+
+Here's your document reformatted with better readability and a few ASCII icons for a more visually appealing look:
+
+---
+
+# 📚 Basics
+
+## 1. Knowledge Foundations
+
+### Variables and Data Types
+
+- **Primitive and Reference Types**
+  - 🔹 **Primitive Types**
+  - 🔹 **Reference Types**
+
+- **Type Coercion**
+  - 🔸 **Implicit and Explicit Coercion**
+    - 🔹 **Implicit Coercion**
+    - 🔹 **Explicit Coercion**
+
+---
+
+### Operators
+
+- 🔹 **Arithmetic Operators**
+- 🔹 **Assignment Operators**
+- 🔹 **Comparison Operators**
+- 🔹 **Logical Operators**
+- 🔹 **Bitwise Operators**
+- 🔹 **String Operators**
+- 🔹**Conditional (Ternary) Operator**
+- 🔹 **Unary Operators**
+
+---
+
+### Control Structures
+
+- 🔹 **if-Else**
+- 🔹 **switch**
+- 🔸 **for**
+  - 🔹 **normalFor**
+  - 🔹 **forIn**
+  - 🔹 **forOf**
+- 🔹 **while**
+- 🔹 **do-while**
+- 🔹 **break and continue**
+
+---
+
+### Functions and Scope
+
+- 🔸 **Functions**
+  - 🔹 **Function Declaration**
+  - 🔹 **Function Expression**
+  - 🔹 **Arrow Functions**
+  - 🔹 **Anonymous Functions**
+  - 🔹 **Higher-Order Functions**
+  - 🔹 **Callback Functions**
+  - 🔹 **Function Parameters**
+  - 🔹 **Rest and Spread Operators**
+
+- 🔸 **Scope**
+  - 🔹 **Global Scope**
+  - 🔹 **Local Scope**
+  - 🔹 **Block Scope**
+  - 🔹 **Lexical Scope**
+  - 🔹 **Scope Chain**
+  - 🔹 **Closures**
+
+---
+
+### Object, Array, and String
+
+- 🔸 **Object**
+  - 🔹 **Creating Objects**
+  - 🔹 **Accessing Properties**
+  - 🔹 **Methods**
+  - 🔹 **Prototypes**
+  - 🔹 **Inheritance**
+
+- 🔸 **Array**
+  - 🔹 **Creating Arrays**
+  - 🔹 **Accessing and Modifying Elements**
+  - 🔹 **Common Array Methods**
+  - 🔹 **Array Iteration**
+
+- 🔸 **String**
+  - 🔹 **Creating Strings**
+  - 🔹 **String Methods**
+  - 🔹 **Template Literals**
+  - 🔹 **String Manipulation**
+
+---
+
+## 2. DOM and Events
+
+### DOM Manipulation
+
+- 🔹 Basic and advanced DOM methods
+- 🔹 Performance optimization
+
+### Event Handling
+
+- 🔸 Event types (mouse, keyboard, form, etc.)
+- 🔸 Event delegation, bubbling, and capturing
+- 🔸 Asynchronous event handling
+
+### Forms and Validation
+
+- 🔹 Client-side validation
+- 🔹 Form submission handling
+
+### Advanced Topics
+
+- 🔸 Shadow DOM and related technologies
+- 🔸 Virtual DOM and frameworks (e.g., React)
+- 🔸 New DOM APIs (Web Components)
+
+### Performance and Optimization
+
+- 🔹 Minimizing reflows and repaints
+- 🔹 Event handling performance best practices
+
+### Cross-browser Compatibility
+
+- 🔸 Ensuring compatibility across browsers
+- 🔸 Common event and DOM issues in different browsers
+
+---
 
 ## Examples
-### 1. Ví dụ thực tế
-- Todo List
-- Form Validation
-- API Integration
 
-## Advanced
-### 1. Chủ đề nâng cao
-- Closures
-- Promises và Async/Await
-- Design Patterns
-- Performance Optimization
+### 1. Ví dụ thực tế
+
+-   **To-Do List App**
+-   **Form Validation**
+-   **Image Slider**
+-   **Countdown Timer App**
+-   **Weather App**
+-   **Tic Tac Toe**
+
+---
 
 ## Resources
+
 ### 1. Tài nguyên học tập
-- MDN Web Docs
-- JavaScript.info
-- W3Schools
+
+-   **MDN Web Docs**
+-   **JavaScript.info**
+-   **W3Schools**
+-   ...
+
+---
