@@ -8,15 +8,13 @@ Một class chỉ nên có một lý do để thay đổi, nghĩa là nó chỉ 
 Các thực thể phần mềm (class, module, function, v.v.) nên được mở để mở rộng nhưng đóng để sửa đổi.
 
 ## LSP (Liskov Substitution Principle)
-Các đối tượng trong một chương trình nên có khả năng được thay thế bằng các instance của các subtype của 
-chúng mà không làm thay đổi tính đúng đắn của chương trình.
+Các đối tượng trong một chương trình nên có khả năng được thay thế bằng các instance của các subtype của chúng mà không làm thay đổi tính đúng đắn của chương trình.
 
 ## ISP (Interface Segregation Principle)
 Nhiều interface cụ thể tốt hơn là một interface chung chung.
 
 ## DIP (Dependency Inversion Principle)
-Các module cấp cao không nên phụ thuộc vào các module cấp thấp. Cả hai nên phụ thuộc vào các abstraction. 
-Abstraction không nên phụ thuộc vào chi tiết. Chi tiết nên phụ thuộc vào abstraction.
+Các module cấp cao không nên phụ thuộc vào các module cấp thấp. Cả hai nên phụ thuộc vào các abstraction. Abstraction không nên phụ thuộc vào chi tiết. Chi tiết nên phụ thuộc vào abstraction.
 
 # Other
 

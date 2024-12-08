@@ -35,4 +35,4 @@ User-Agent        Thông tin về client (trình duyệt, thư viện, ...)     
 Cookie            Gửi cookie từ client đến server.                               sessionId=abc123; token=xyz456
 
 Custom headers    Các header do người dùng định nghĩa                            X-Custom-Header: MyValue
-                  (ví dụ, trong các API yêu cầu header đặc biệt). 
+                  (ví dụ, trong các API yêu cầu header đặc biệt).
