@@ -1,0 +1,10 @@
+CRUD là viết tắt của các thao tác cơ bản trong quản lý cơ sở dữ liệu và phát triển phần mềm, bao gồm:
+
+C – Create (Tạo): Thêm dữ liệu mới vào hệ thống, ví dụ như tạo một bản ghi mới trong cơ sở dữ liệu.
+R – Read (Đọc): Truy vấn và đọc dữ liệu từ hệ thống, chẳng hạn như lấy thông tin từ cơ sở dữ liệu để hiển thị 
+hoặc sử dụng.
+U – Update (Cập nhật): Sửa đổi hoặc cập nhật dữ liệu hiện tại trong hệ thống.
+D – Delete (Xóa): Xóa dữ liệu khỏi hệ thống.
+
+CRUD là các thao tác cơ bản để quản lý và thao tác dữ liệu trong các ứng dụng phần mềm, đặc biệt là các ứng dụng 
+web và hệ quản trị cơ sở dữ liệu.
