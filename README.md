@@ -1,11 +1,15 @@
-# MyDocument
+# 📘 MyDocument
 
-Đây là repository cho các tài liệu của cá nhân
+Đây là repository cho các tài liệu cá nhân.
 
-## Mô tả
-- Các tài liệu này được tạo ra song song quá trình học tập, tìm kiếm, làm các dự án, v.v.
-- Các tài liệu này có dữ liệu gom từ nhiều nơi về, được kiểm tra bởi cá nhân.
+---
 
-## Cảnh báo
-- Các tài liệu này do cá nhân tạo ra.
-- Các tài liệu có thể chứa các thông tin không đúng sự thật.
+## 📝 Mô tả
+- 📚 Tập hợp các tài liệu được tạo ra trong quá trình học tập, nghiên cứu, và làm dự án.
+- 🌐 Dữ liệu được thu thập từ nhiều nguồn khác nhau và đã được kiểm tra bởi cá nhân.
+
+---
+
+## ⚠️ Cảnh báo
+- ✍️ Các tài liệu này do cá nhân tự biên soạn.
+- ❗ Thông tin có thể không hoàn toàn chính xác hoặc còn thiếu sót.
