@@ -5,8 +5,8 @@ docs/
 │   ├── javascript/          # JavaScript
 │   │   ├── basics/          # Các khái niệm cốt lõi
 │   │   ├── dom/             # Thao tác DOM
-│   │   └── modern/          # Các tính năng ES6+
-│   └── framework            
+│   │   └── ES6/             # Các tính năng ES6+
+│   └── frameworkAndLibrary            
 │
 ├── backend/                 # Phát triển backend
 │   ├── languages/           # Node.js, Python, PHP
