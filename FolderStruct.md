@@ -1,11 +1,11 @@
 ## docs/
 - **frontend/**  # Phát triển giao diện người dùng
   - **html/**  # Các nguyên tắc cơ bản về HTML
-  - **css/**  # CSS và phong cách
+  - **css/**  # CSS
   - **javascript/**  # JavaScript
     - **basics/**  # Các khái niệm cốt lõi
-    - **dom/**  # Thao tác DOM
-    - **ES6/**  # Các tính năng ES6+
+    - **dom/**  # DOM
+    - **ES6/**  # ES6+
   - **frameworkAndLibrary/**
 
 - **backend/**  # Phát triển backend
