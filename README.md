@@ -6,16 +6,16 @@
 
 ## 📝 Mô tả
 - 📚 Tập hợp các tài liệu được tạo ra trong quá trình học tập, nghiên cứu, và làm dự án.
-- 🌐 Dữ liệu được thu thập từ nhiều nguồn khác nhau và đã được kiểm tra bởi cá nhân.
+- 🌐 Dữ liệu được thu thập từ nhiều nguồn khác nhau và đã được kiểm tra bởi các cá nhân.
 
 ---
 
 ## ⚠️ Cảnh báo
-- ✍️ Các tài liệu này do cá nhân tự biên soạn.
+- ✍️ Các tài liệu này do các cá nhân tự biên soạn.
 - ❗ Thông tin có thể không hoàn toàn chính xác hoặc còn thiếu sót.
 
 
-# 🎯 Purpose of MyDocument
+# 🎯 Mục tiêu của MyDocument
 
 ## 🛠️ Mục tiêu
 Tài liệu này nhằm xây dựng nền tảng kiến thức về phát triển phần mềm từ cơ bản đến nâng cao, tập trung vào quy trình và các nguyên tắc tốt nhất trong lập trình.  
