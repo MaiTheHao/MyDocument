@@ -25,10 +25,6 @@
 
 ---
 
-Here's your document reformatted with better readability and a few ASCII icons for a more visually appealing look:
-
----
-
 # 📚 Basics
 
 ## 1. Knowledge Foundations
