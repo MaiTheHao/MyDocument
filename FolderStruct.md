@@ -1,24 +1,24 @@
-docs/
-├── frontend/                # Phát triển giao diện người dùng
-│   ├── html/                # Các nguyên tắc cơ bản về HTML
-│   ├── css/                 # CSS và phong cách
-│   ├── javascript/          # JavaScript
-│   │   ├── basics/          # Các khái niệm cốt lõi
-│   │   ├── dom/             # Thao tác DOM
-│   │   └── ES6/             # Các tính năng ES6+
-│   └── frameworkAndLibrary            
-│
-├── backend/                 # Phát triển backend
-│   ├── languages/           # Node.js, Python, PHP
-│   ├── api/                 # Phát triển API
-│   └── database/            # SQL, NoSQL
-│
-├── architecture/            # Kiến trúc phần mềm
-│   └── patterns/            # MVC, MVVM
-│
-├── practices/               # Tiêu chuẩn, các phương pháp, kỹ thuật, hoặc nguyên tắc nên tuân thủ 
-│
-└── optimization/            # Tối ưu hóa hiệu suất
+## docs/
+- **frontend/**  # Phát triển giao diện người dùng
+  - **html/**  # Các nguyên tắc cơ bản về HTML
+  - **css/**  # CSS và phong cách
+  - **javascript/**  # JavaScript
+    - **basics/**  # Các khái niệm cốt lõi
+    - **dom/**  # Thao tác DOM
+    - **ES6/**  # Các tính năng ES6+
+  - **frameworkAndLibrary/**
+
+- **backend/**  # Phát triển backend
+  - **languages/**  # Node.js, Python, PHP
+  - **api/**  # Phát triển API
+  - **database/**  # SQL, NoSQL
+
+- **architecture/**  # Kiến trúc phần mềm
+  - **patterns/**  # MVC, MVVM
+
+- **practices/**  # Tiêu chuẩn, các phương pháp, kỹ thuật, hoặc nguyên tắc nên tuân thủ 
+
+- **optimization/**  # Tối ưu hóa hiệu suất
 
 Chi tiết mục đích các thư mục:
 
