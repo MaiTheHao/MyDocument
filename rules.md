@@ -12,7 +12,13 @@
 - 📘 Mỗi repository cần có một file `folderStruct.md`:
   - 🎯 **Mục đích**: 
     - Tóm tắt cấu trúc thư mục của repository hiện tại.
-- 🔄 Cập nhật khi có thay đổi cấu trúc, giúp leader quản lý và người đọc dễ tìm kiếm.
+  - 🔄 Cập nhật khi có thay đổi cấu trúc, giúp leader quản lý và người đọc dễ tìm kiếm.
+  - 🛠️ Sử dụng lệnh `git ls-tree -r HEAD --name-only` để lấy cấu trúc folder nhanh chóng.
+    - 🎯 **Mục đích**:
+      - Nhanh chóng có được danh sách các file và folder trong repository.
+      - Dễ dàng cập nhật và chỉnh sửa cấu trúc folder.
+    - 🌐 Sử dụng các trang web vẽ sơ đồ cây để chỉnh sửa cấu trúc folder hợp lý.
+      - Ví dụ: https://www.text-2-tree.com/
 - 🛡️ Mọi repository đều phải để file `rules.md` này vào thư mục gốc của repository:
   - 🎯 **Mục đích**: 
     - Đảm bảo tất cả thành viên đều nắm rõ quy tắc tổ chức và xây dựng dự án.
