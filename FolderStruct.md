@@ -1,21 +1,35 @@
 ## docs/
+
+```
 .
-├── **frontend/**  # Phát triển giao diện người dùng
-│   ├── **html/**  # Các nguyên tắc cơ bản về HTML
-│   ├── **css/**  # CSS
-│   ├── **javascript/**  # JavaScript
-│   │   ├── **basics/**  # Các khái niệm cốt lõi
-│   │   ├── **dom/**  # DOM
-│   │   └── **ES6/**  # ES6+
-│   └── **frameworkAndLibrary/**
-├── **backend/**  # Phát triển backend
-│   ├── **languages/**  # Node.js, Python, PHP
-│   ├── **api/**  # Phát triển API
-│   └── **database/**  # SQL, NoSQL
-├── **architecture/**  # Kiến trúc phần mềm
-│   └── **patterns/**  # MVC, MVVM
-├── **practices/**  # Tiêu chuẩn, các phương pháp, kỹ thuật, hoặc nguyên tắc nên tuân thủ 
-└── **optimization/**  # Tối ưu hóa hiệu suất
+├── folderStruct.md
+├── README.md
+├── Support.md
+├── backend/
+│   ├── README.md
+│   └── languages/
+│       └── javascript/
+│           └── README.md
+├── comparison/
+│   ├── README.md
+│   └── formOrFetchApi.md
+├── designPattern/
+│   └── README.md
+├── frontend/
+│   └── README.md
+├── optimization/
+│   ├── JavascriptLoadingExecutionProcess.md
+│   ├── README.md
+│   └── lazyLoadingInJavascript.md
+├── others/
+│   ├── README.md
+│   └── requestHeader.md
+├── principles/
+│   ├── CRUD.md
+│   ├── README.md
+│   └── solidPrinciplesAndOther.md
+└── rules.md
+```
 
 Chi tiết mục đích các thư mục:
 
