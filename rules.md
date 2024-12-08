@@ -8,107 +8,109 @@
 
 ### 🗂️ **1.1. Tổ chức folder**
 
--   📜 Mỗi folder cần có một file `README.md` (viết hoa toàn bộ):
-    -   🎯 **Mục đích**:
+-   Mỗi folder cần có một file `README.md` (viết hoa toàn bộ):
+    -   **Mục đích**:
         -   Mô tả sơ lược về mục đích và nội dung của folder.
         -   Đảm bảo người đọc dễ hình dung về vai trò của folder.
--   📘 Mỗi repository cần có một file `folderStruct.md`:
-    -   🎯 **Mục đích**:
+-   Mỗi repository cần có một file `folderStruct.md`:
+    -   **Mục đích**:
         -   Tóm tắt cấu trúc thư mục của repository hiện tại.
-    -   🔄 Cập nhật khi có thay đổi cấu trúc, giúp leader quản lý và người đọc dễ tìm kiếm.
-    -   🛠️ Sử dụng lệnh `git ls-tree -r HEAD --name-only` để lấy cấu trúc folder nhanh chóng.
-        -   🎯 **Mục đích**:
+    -   Cập nhật khi có thay đổi cấu trúc, giúp leader quản lý và người đọc dễ tìm kiếm.
+    -   Sử dụng lệnh `git ls-tree -r HEAD --name-only` để lấy cấu trúc folder nhanh chóng.
+        -   **Mục đích**:
             -   Nhanh chóng có được danh sách các file và folder trong repository.
             -   Dễ dàng cập nhật và chỉnh sửa cấu trúc folder.
-        -   🌐 Sử dụng các trang web vẽ sơ đồ cây để chỉnh sửa cấu trúc folder hợp lý.
+        -   Sử dụng các trang web vẽ sơ đồ cây để chỉnh sửa cấu trúc folder hợp lý.
             -   Ví dụ: https://www.text-2-tree.com/
--   🛡️ Mọi repository đều phải để file `rules.md` này vào thư mục gốc của repository:
-    -   🎯 **Mục đích**:
+-   Mọi repository đều phải để file `rules.md` này vào thư mục gốc của repository:
+    -   **Mục đích**:
         -   Đảm bảo tất cả thành viên đều nắm rõ quy tắc tổ chức và xây dựng dự án.
         -   Dễ dàng truy cập và tham khảo khi cần thiết.
 
-### ✍️ **1.2. Quy tắc đặt tên**
+### **1.2. Quy tắc đặt tên**
 
--   📝 Sử dụng **camelCase** cho tên folder và file:
-    -   📌 Ví dụ: `javaScriptAsynchronous`, `JSAsync`.
-    -   ✅ Ngoại trừ các trường hợp các từ viết tắt kỹ thuật như DOM, ES6, HTML, CSS, JS...
+-   Sử dụng **camelCase** cho tên folder và file:
+    -   Ví dụ: `javaScriptAsynchronous`, `JSAsync`.
+    -   Ngoại trừ các trường hợp các từ viết tắt kỹ thuật như DOM, ES6, HTML, CSS, JS...
         -   **Trường hợp đặc biệt là README.md**
--   📋 Tên folder và file:
-    -   🎯 Đặt hợp lý, đúng trọng tâm.
-    -   ❌ Tránh sử dụng tên chung chung, thiếu ý nghĩa.
+-   Tên folder và file:
+    -   Đặt hợp lý, đúng trọng tâm.
+    -   Tránh sử dụng tên chung chung, thiếu ý nghĩa.
 
-### 🧩 **1.3. Chia nhỏ nội dung**
+### **1.3. Chia nhỏ nội dung**
 
--   🔍 Phân tách nội dung thành nhiều file hoặc folder con thay vì lồng ghép:
-    -   🎯 **Mục đích**:
-        -   📌 Dễ phân biệt, tìm kiếm.
-        -   ⚙️ Dễ quản lý và chỉnh sửa.
+-   Phân tách nội dung thành nhiều file hoặc folder con thay vì lồng ghép:
+    -   **Mục đích**:
+        -   Dễ phân biệt, tìm kiếm.
+        -   Dễ quản lý và chỉnh sửa.
     -   Ví dụ: Folder "javaScript" có thể chứa các file như:
         -   `basics.md`
         -   `DOM.md`
         -   `ES6.md`
 
-### 📝 **1.4. Quy tắc viết tài liệu**
+### **1.4. Quy tắc viết tài liệu**
 
--   📁 Tên file tài liệu `.md` phải được đặt bằng tiếng Anh và phải phản ánh đúng chủ đề của tài liệu.
-    -   🎯 **Mục đích**:
+-   Tên file tài liệu `.md` phải được đặt bằng tiếng Anh và phải phản ánh đúng chủ đề của tài liệu.
+    -   **Mục đích**:
         -   Giúp dễ dàng nhận diện và tìm kiếm tài liệu.
         -   Tạo sự nhất quán và chuyên nghiệp trong dự án.
 -   🖋️ Trong phần nội dung của tài liệu, hãy viết bằng tiếng Việt. Các thuật ngữ kỹ thuật và từ khóa cần được viết bằng tiếng Anh hoặc sử dụng dấu `(` và `)` để chú thích.
-    -   🎯 **Mục đích**:
+    -   **Mục đích**:
         -   Đảm bảo tài liệu dễ đọc và hiểu cho người dùng nói tiếng Việt.
         -   Giúp người đọc dễ dàng nhận diện các thuật ngữ kỹ thuật chuẩn.
-    -   📌 Ví dụ:
+    -   Ví dụ:
         -   “Sử dụng `JavaScript` (JS) để xử lý dữ liệu...”
         -   “Ứng dụng `HTML` (Hypertext Markup Language) là nền tảng cơ bản cho việc xây dựng web...”
 
 ---
 
-## 🔗 **2. Quy tắc sử dụng Git**
+## 🛠️ **2. Quy tắc sử dụng Git**
 
-### 🔄 **2.1. Quản lý cập nhật**
+### **2.1. Quản lý cập nhật**
 
--   🚀 **Luôn cập nhật dữ liệu trước khi tiếp tục làm việc**:
+-   **Luôn cập nhật dữ liệu trước khi tiếp tục làm việc**:
     -   Sử dụng lệnh `git pull` trước khi chỉnh sửa.
-    -   🚧 Giảm thiểu khả năng xảy ra conflict.
--   🛠️ **Xử lý conflict**:
-    -   🧘 Hãy xử lý xung đột cẩn thận và thảo luận với team nếu cần.
+    -   Giảm thiểu khả năng xảy ra conflict.
+-   **Xử lý conflict**:
+    -   Hãy xử lý xung đột cẩn thận và thảo luận với team nếu cần.
 
-### 📝 **2.2. Commit chi tiết**
+### **2.2. Commit chi tiết**
 
--   ✍️ Viết commit rõ ràng, cụ thể:
+-   Viết commit rõ ràng, cụ thể:
+
     -   **Tiêu đề**: Tóm tắt hành động thực hiện (ví dụ: tạo, chỉnh sửa, cập nhật, xóa).
     -   **Nội dung chi tiết**: Liệt kê các file được thay đổi và lý do.
     -   Ví dụ:
+
         ```markdown
         create javaScriptSyntax.md in userManagement
 
         -   description. (có thể có)
         ```
 
-### 🌱 **2.3. Sử dụng nhánh riêng**
+### **2.3. Sử dụng nhánh riêng**
 
--   🌿 Tạo nhánh riêng ngoài `main` hoặc `master`:
-    -   🔄 Phân chia công việc rõ ràng.
-    -   ❌ Tránh xung đột không cần thiết.
--   ✔️ Khi hoàn thành công việc, merge nhánh vào `main` sau khi kiểm tra cẩn thận.
+-   Tạo nhánh riêng ngoài `main` hoặc `master`:
+    -   Phân chia công việc rõ ràng.
+    -   Tránh xung đột không cần thiết.
+-   Khi hoàn thành công việc, merge nhánh vào `main` sau khi kiểm tra cẩn thận.
 
 ---
 
 ## ⚡ **3. Lưu ý bổ sung**
 
--   🛡️ **File `.gitignore`:**
-    -   ⚙️ Quản lý dự án hiệu quả hơn.
-    -   🗑️ Loại trừ tất cả các file không phải `.md`.
--   ✅ **Chỉ commit khi file đã hoàn chỉnh**:
-    -   🔍 Hạn chế việc chỉnh sửa nhiều lần không cần thiết.
-    -   🏆 Đảm bảo file đủ nội dung và chất lượng.
+-   **File `.gitignore`:**
+    -   Quản lý dự án hiệu quả hơn.
+    -   Loại trừ tất cả các file không phải `.md`.
+-   **Chỉ commit khi file đã hoàn chỉnh**:
+    -   Hạn chế việc chỉnh sửa nhiều lần không cần thiết.
+    -   Đảm bảo file đủ nội dung và chất lượng.
 
 ---
 
 ## 🗂️ **4. Mẫu cấu trúc folder**
 
-### 📚 **4.1. Ví dụ:**
+### **4.1. Ví dụ:**
 
 ```plaintext
 repositoryRoot/
@@ -127,20 +129,20 @@ repositoryRoot/
 └── .gitignore             # Loại bỏ file không cần thiết
 ```
 
-### 📌 **4.2. Quy tắc mở rộng**
+### **4.2. Quy tắc mở rộng**
 
--   🔄 **Cập nhật `folderStruct.md` khi có thay đổi cấu trúc**:
-    -   🎯 Mục đích: Dễ quản lý và đồng bộ.
--   🧩 **Chia nhỏ nội dung vào folder và file con hợp lý**:
-    -   ❌ Tránh đặt quá nhiều nội dung vào một file.
+-   **Cập nhật `folderStruct.md` khi có thay đổi cấu trúc**:
+    -   Mục đích: Dễ quản lý và đồng bộ.
+-   **Chia nhỏ nội dung vào folder và file con hợp lý**:
+    -   Tránh đặt quá nhiều nội dung vào một file.
 
 ---
 
 ## 🎯 **5. Kết luận**
 
--   ✅ Quy tắc trên đảm bảo việc tổ chức file và folder chặt chẽ, dễ quản lý.
--   🛡️ Hạn chế tối đa xung đột khi làm việc nhóm và cải thiện năng suất làm việc.
--   🤝 Mọi thành viên nên tuân thủ các quy tắc trên để đảm bảo sự thống nhất và hiệu quả trong dự án.
+-   Quy tắc trên đảm bảo việc tổ chức file và folder chặt chẽ, dễ quản lý.
+-   Hạn chế tối đa xung đột khi làm việc nhóm và cải thiện năng suất làm việc.
+-   Mọi thành viên nên tuân thủ các quy tắc trên để đảm bảo sự thống nhất và hiệu quả trong dự án.
 
 ---
 
