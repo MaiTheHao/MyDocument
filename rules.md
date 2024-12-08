@@ -30,10 +30,8 @@
 ### ✍️ **1.2. Quy tắc đặt tên**
 
 -   📝 Sử dụng **camelCase** cho tên folder và file:
-    -   📌 Ví dụ: `javaScriptAsynchronous`, `jsAsync`.
+    -   📌 Ví dụ: `javaScriptAsynchronous`, `JSAsync`.
     -   ✅ Ngoại trừ các trường hợp các từ viết tắt kỹ thuật như DOM, ES6, HTML, CSS, JS...
-        -   Nếu các từ này xuất hiện ở đầu thì viết thường toàn bộ.
-        -   Nếu các từ này không xuất hiện ở đầu thì viết hoa toàn bộ.
         -   **Trường hợp đặc biệt là README.md**
 -   📋 Tên folder và file:
     -   🎯 Đặt hợp lý, đúng trọng tâm.
