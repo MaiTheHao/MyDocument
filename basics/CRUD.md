@@ -1,10 +1,10 @@
-# CRUD trong Quản Lý Dữ Liệu và Phát Triển Phần Mềm
+# 🔄 CRUD trong Quản Lý Dữ Liệu và Phát Triển Phần Mềm
 
 **CRUD** là viết tắt của các thao tác cơ bản trong quản lý cơ sở dữ liệu và phát triển phần mềm, bao gồm:
 
 ---
 
-## **1. C – Create (Tạo)**  
+## **1. ➕ C – Create (Tạo)**  
 - **Ý nghĩa:** Thêm dữ liệu mới vào hệ thống.  
 - **Ví dụ:**  
   - Tạo một bản ghi mới trong cơ sở dữ liệu (thêm sản phẩm, người dùng).  
@@ -16,7 +16,7 @@
 
 ---
 
-## **2. R – Read (Đọc)**  
+## **2. 📖 R – Read (Đọc)**  
 - **Ý nghĩa:** Truy vấn và đọc dữ liệu từ hệ thống.  
 - **Ví dụ:**  
   - Lấy danh sách sản phẩm từ cơ sở dữ liệu.  
@@ -28,7 +28,7 @@
 
 ---
 
-## **3. U – Update (Cập nhật)**  
+## **3. ✏️ U – Update (Cập nhật)**  
 - **Ý nghĩa:** Sửa đổi hoặc cập nhật dữ liệu hiện tại trong hệ thống.  
 - **Ví dụ:**  
   - Thay đổi thông tin của người dùng (cập nhật địa chỉ, email).  
@@ -40,7 +40,7 @@
 
 ---
 
-## **4. D – Delete (Xóa)**  
+## **4. ❌ D – Delete (Xóa)**  
 - **Ý nghĩa:** Xóa dữ liệu khỏi hệ thống.  
 - **Ví dụ:**  
   - Xóa tài khoản người dùng.  
@@ -52,7 +52,7 @@
 
 ---
 
-### **Ứng dụng CRUD**
+### **🛠️ Ứng dụng CRUD**
 CRUD là các thao tác cơ bản để quản lý và thao tác dữ liệu trong:
 - **Ứng dụng phần mềm**: CRUD thường được sử dụng trong giao diện người dùng (UI) cho quản lý dữ liệu.
 - **Ứng dụng web**: Phần backend thường cung cấp API CRUD để giao tiếp với cơ sở dữ liệu.

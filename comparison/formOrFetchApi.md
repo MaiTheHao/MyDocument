@@ -1,8 +1,8 @@
-### So sánh giữa Gửi Dữ Liệu qua HTML Form và Fetch API
+### 🔄 So sánh giữa Gửi Dữ Liệu qua HTML Form và Fetch API
 
 ---
 
-#### **HTML Form Truyền Thống (Thẻ `<form>`)**
+#### **📝 HTML Form Truyền Thống (Thẻ `<form>`)**
 
 **Ưu điểm:**
 - ✅ Dễ dàng triển khai.
@@ -19,7 +19,7 @@
 
 ---
 
-#### **Gửi Dữ Liệu qua Fetch API**
+#### **🚀 Gửi Dữ Liệu qua Fetch API**
 
 **Ưu điểm:**
 - ✅ Không cần tải lại trang (trải nghiệm giống ứng dụng SPA).
@@ -38,7 +38,7 @@
 
 ---
 
-#### **Hướng Dẫn Sử Dụng**
+#### **📋 Hướng Dẫn Sử Dụng**
 
 **Sử dụng HTML Form truyền thống khi:**
 - Xây dựng các form đơn giản như form đăng nhập.
